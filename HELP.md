@@ -395,7 +395,7 @@ verify(toolController, times(1)).findAll();
 
 ---
 
-## 🎯 **Your Assignment**
+## 🎯 **Your Exercise**
 
 Now it's your turn! Create a test class for a controller with these requirements:
 

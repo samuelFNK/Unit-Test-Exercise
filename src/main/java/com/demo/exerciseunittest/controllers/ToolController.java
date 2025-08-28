@@ -21,6 +21,6 @@ public class ToolController {
 
     // Update a tool
 
-    // Delete a tool
+    // Delete a tool (use @RequestParam here)
 
 }
