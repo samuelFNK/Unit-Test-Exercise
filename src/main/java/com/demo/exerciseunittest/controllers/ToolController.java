@@ -15,7 +15,7 @@ public class ToolController {
 
     // Get all tools
 
-    // Get one specific tool
+    // Get one specific tool (use @PathVariable)
 
     // Add a tool
 
